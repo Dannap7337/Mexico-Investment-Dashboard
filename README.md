@@ -35,3 +35,12 @@ Specifically designed for the Mexican market context, it compares high-yield inv
 1. Clone the repository:
 ```bash
 git clone [https://github.com/YOUR_USER/Investment-Simulator-Streamlit.git](https://github.com/YOUR_USER/Investment-Simulator-Streamlit.git)
+```
+2. Install dependencies:
+```bash
+pip install -r requirements.txt
+```
+3. Run the application:
+```bash
+streamlit run app.py
+``` 
